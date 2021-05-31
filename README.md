@@ -1,2 +1,2 @@
-# ScaleThis-Systematically-Hedging-Voter-Suppression
-KonradK's "ScaleThis!™: Systematically Hedging Voter Suppression" repository. 
+# ScaleThis-Systematically-Defeating-Voter-Suppression
+KonradK's "ScaleThis!™: Systematically Defeating Voter Suppression" repository. 
